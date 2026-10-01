@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+evaluate
+seqeval
+accelerate
+optimum-onnx[onnxruntime]pytest
